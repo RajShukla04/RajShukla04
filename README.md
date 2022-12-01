@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning React, C++
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdshadow01&label=Profile%20views&color=0e75b6&style=flat" alt="xdshadow01" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **C++, JavaScript**
 
 - 📫 How to reach me **rajshukla9508@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
