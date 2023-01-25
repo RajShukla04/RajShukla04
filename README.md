@@ -1,25 +1,12 @@
 
 
-<!--
-**RajShukla04/RajShukla04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="code" width="200" src="https://telegra.ph/file/5e6ff71c732dd5aea7301.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdshadow01&label=Profile%20views&color=0e75b6&style=flat" alt="xdshadow01" /> </p>
+
 
 - 🌱 I’m currently learning **C++**
 
