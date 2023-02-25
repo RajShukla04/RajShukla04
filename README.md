@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajshukla9508@gmail.com**
 
-
+[![My github stats](https://github-readme-stats.vercel.app/api?username=RajShukla04&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Raj+Github+Stats)](https://github.com/RajShukla04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
