@@ -16,7 +16,9 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=RajShukla04&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Raj+Github+Stats)](https://github.com/RajShukla04)
 
-
+<p align="center">
+  <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p align="left">
 <a href="https://twitter.com/raj_shukla091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj_shukla091" height="30" width="40" /></a>
