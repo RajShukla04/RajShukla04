@@ -16,6 +16,8 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=RajShukla04&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Raj+Github+Stats)](https://github.com/RajShukla04)
 
+
+[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=RajShukla04&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/RajShukla04)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raj_shukla091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj_shukla091" height="30" width="40" /></a>
