@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C++, JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **rajshukla9508@gmail.com**
 
