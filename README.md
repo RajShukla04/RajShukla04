@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Developer from India</h3>
 
 <img align="right" alt="code" width="200" src="https://telegra.ph/file/5e6ff71c732dd5aea7301.jpg">
 
